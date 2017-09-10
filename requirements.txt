@@ -5,3 +5,5 @@ psycopg2
 social-auth-app-django
 # Decouple
 python-decouple
+# Gunicorn for serving
+gunicorn
