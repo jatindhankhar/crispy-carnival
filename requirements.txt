@@ -1,0 +1,3 @@
+django
+# For Postgres
+psycopg2
