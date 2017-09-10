@@ -1,3 +1,7 @@
 django
 # For Postgres
 psycopg2
+# For Oauth2 handling
+social-auth-app-django
+# Decouple
+python-decouple
